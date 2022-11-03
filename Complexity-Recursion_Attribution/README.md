@@ -18,16 +18,3 @@ Please note that there are **2 main constraints**:
   1. A student can only belong to one team
   2. A team is made up of a maximum of 3 students
 
-It is therefore the **sum of the wishes** (and therefore their weight) that must be **optimized**.
-
-The solutions we find are indicated in the file **CR_Attribution**. We find there :
-  - The number of students
-  - The number of missions
-  - The optimized sum
-  - The execution time to find the solution
-
-<div id="results" align = "center">
-  <img src="https://user-images.githubusercontent.com/105392989/175881003-4ea3c968-2d27-43d9-901b-80fc2af94d88.png" width="900">
-</div>
-
-This project was done in a school context with another classmate.
