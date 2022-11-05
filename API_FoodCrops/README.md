@@ -14,3 +14,4 @@ The idea behind this project is quite simple. Indeed, from a DB under excel file
 
 To start the project, we first created the classes and elements associated with the class diagram. Once we had this base, we tried to **understand and relate all these classes**.
 
+Please refer to the **class_diagram.pdf** file in order to see all the classes and their relations.
